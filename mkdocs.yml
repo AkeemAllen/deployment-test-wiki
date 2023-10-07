@@ -1,0 +1,64 @@
+site_name: Deployment Test Wiki
+site_url: https://akeemallen.github.io/deployment-test-wiki
+site_description: Wiki meant to test deployment flow
+site_author: AkeemAllen
+repo_url: https://github.com/AkeemAllen/deployment-test-wiki
+theme:
+    palette:
+    -   media: '(prefers-color-scheme: light)'
+        primary: black
+        scheme: default
+        toggle:
+            icon: material/eye-outline
+            name: Switch to dark mode
+    -   media: '(prefers-color-scheme: dark)'
+        primary: black
+        scheme: slate
+        toggle:
+            icon: material/eye
+            name: Switch to light mode
+    name: material
+    favicon: img/items/poke-ball.png
+    features:
+    - content.tabs.link
+nav:
+-   Home: index.md
+-   Pokemon:
+    -   Type Changes: type_changes.md
+    -   Evolution Changes: evolution_changes.md
+    -   Specific Changes:
+        -   001 - Bulbasaur: pokemon/001.md
+        -   002 - Ivysaur: pokemon/002.md
+        -   003 - Venusaur: pokemon/003.md
+        -   004 - Charmander: pokemon/004.md
+        -   005 - Charmeleon: pokemon/005.md
+        -   006 - Charizard: pokemon/006.md
+        -   007 - Squirtle: pokemon/007.md
+        -   008 - Wartortle: pokemon/008.md
+        -   009 - Blastoise: pokemon/009.md
+        -   010 - Caterpie: pokemon/010.md
+        -   011 - Metapod: pokemon/011.md
+        -   012 - Butterfree: pokemon/012.md
+        -   013 - Weedle: pokemon/013.md
+        -   014 - Kakuna: pokemon/014.md
+        -   015 - Beedrill: pokemon/015.md
+        -   016 - Pidgey: pokemon/016.md
+        -   017 - Pidgeotto: pokemon/017.md
+        -   018 - Pidgeot: pokemon/018.md
+        -   019 - Rattata: pokemon/019.md
+        -   020 - Raticate: pokemon/020.md
+        -   Test Pokemon: pokemon/test_pokemon.md
+-   Routes:
+    -   Test route:
+        -   Wild Encounters: routes/Test Route/wild_encounters.md
+        -   Trainers: routes/Test Route/trainers.md
+plugins:
+-   search:
+        lang: en
+markdown_extensions:
+- admonition
+-   pymdownx.tasklist:
+        custom_checkbox: true
+- pymdownx.superfences
+-   pymdownx.tabbed:
+        alternate_style: true
