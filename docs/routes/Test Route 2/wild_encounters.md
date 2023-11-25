@@ -1,0 +1,5 @@
+# Test route 2
+
+| Area                                                                    | Pokemon                                                                                              | &nbsp;                                                                                                 | &nbsp;                                                                                             |
+| ----------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- |
+| ![grass-normal](../../img/items/grass-normal.png)<br/>grass-normal<br/> | ![bulbasaur](../../img/pokemon/001.png) <br/>[Bulbasaur](/deployment-test-wiki/pokemon/001) <br/>10% | ![charmander](../../img/pokemon/004.png) <br/>[Charmander](/deployment-test-wiki/pokemon/004) <br/>10% | ![squirtle](../../img/pokemon/007.png) <br/>[Squirtle](/deployment-test-wiki/pokemon/007) <br/>10% |

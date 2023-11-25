@@ -4,7 +4,7 @@
 
 | Base Pokemon                                                                         | Level | Evolved Pokemon                                                                  |
 | ------------------------------------------------------------------------------------ | ----- | -------------------------------------------------------------------------------- |
-| ![bulbasaur](img/pokemon/001.png)<br/>[Bulbasaur](/deployment-test-wiki/pokemon/001) | 8     | ![ivysaur](img/pokemon/002.png)<br/>[Ivysaur](/deployment-test-wiki/pokemon/002) |
+| ![bulbasaur](img/pokemon/001.png)<br/>[Bulbasaur](/deployment-test-wiki/pokemon/001) | 10    | ![ivysaur](img/pokemon/002.png)<br/>[Ivysaur](/deployment-test-wiki/pokemon/002) |
 
 ## Item Interaction Changes
 

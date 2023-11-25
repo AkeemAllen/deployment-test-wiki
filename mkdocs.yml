@@ -49,9 +49,15 @@ nav:
         -   020 - Raticate: pokemon/020.md
         -   Test Pokemon: pokemon/test_pokemon.md
 -   Routes:
-    -   Test route:
-        -   Wild Encounters: routes/Test Route/wild_encounters.md
-        -   Trainers: routes/Test Route/trainers.md
+    -   Test route 2:
+        -   Wild Encounters: routes/Test Route 2/wild_encounters.md
+        -   Trainers: routes/Test Route 2/trainers.md
+    -   Test route copy:
+        -   Wild Encounters: routes/Test Route copy/wild_encounters.md
+        -   Trainers: routes/Test Route copy/trainers.md
+    -   Another route copy:
+        -   Wild Encounters: routes/Another Route copy/wild_encounters.md
+        -   Trainers: routes/Another Route copy/trainers.md
 plugins:
 -   search:
         lang: en
